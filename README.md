@@ -1,0 +1,2 @@
+# PythonEditor
+使用PyGame编写的简陋到不能再简陋的编辑器
